@@ -1,0 +1,7 @@
+﻿Welcome to file IO DEMO
+This is  second line also.
+
+Hellow World - .Net is awesome
+Hellow World - .Net is awesome
+Hellow World - .Net is awesome
+Hellow World - .Net is awesome

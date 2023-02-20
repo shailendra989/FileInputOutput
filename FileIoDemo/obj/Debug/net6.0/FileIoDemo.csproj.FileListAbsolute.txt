@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\bin\Debug\net6.0\FileIoDemo.exe
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\bin\Debug\net6.0\FileIoDemo.deps.json
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\bin\Debug\net6.0\FileIoDemo.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\bin\Debug\net6.0\FileIoDemo.dll
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\bin\Debug\net6.0\FileIoDemo.pdb
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.dll
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\refint\FileIoDemo.dll
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.pdb
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\FileIoDemo.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\FileIoDemo\FileIoDemo\obj\Debug\net6.0\ref\FileIoDemo.dll
